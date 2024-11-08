@@ -27,7 +27,7 @@ root.place(x = (main.winfo_screenwidth() / 2) - (WIDTH / 2), y = (main.winfo_scr
 
 #img = Image.open(r"C:\Users\HP\GitHub\CorsiTest\NewDesign\checkerboard.jpg")
 
-img = Image.open("NewDesign/checkerboard.jpg")
+img = Image.open("checkerboard.jpg")
 
 img = img.resize((200,200))
 """
@@ -45,7 +45,7 @@ CalImg1 = tkinter.Canvas(root, bg="white", highlightthickness=5, highlightbackgr
 """ Importing Calibration-Size Image """
 
 #img_size = Image.open(r"C:\Users\HP\GitHub\CorsiTest\NewDesign\circle2-outlineCrop.png")
-img_size = Image.open("NewDesign/circle2-outlineCrop.png")
+img_size = Image.open("circle2-outlineCrop.png")
 img_size = img_size.resize((int(252/2),504))
 save_img_size = img_size
 tkimage = ImageTk.PhotoImage(img_size)
