@@ -77,7 +77,7 @@ This study was developed by:
 
 This work was supported by grants from the National Institute on Deafness and Other Communication Disorders (NIDCD) and the Leon Levy Foundation.
 
-For any questions, please contact **Amir Kheradmand, M.D.** at [akherad@jhu.edu](mailto:akherad@jhu.edu).
+For any questions, please contact **Amir Kheradmand, M.D.** at [akherad@jhu.edu](mailto:akherad@jhu.edu) or Krishna Mukunda [kmukund1@jhu.edu](mailto:kmukund1@jhu.edu).
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
